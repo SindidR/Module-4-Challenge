@@ -22,7 +22,7 @@ Code Quiz
 This is a quiz to test your basic coding knowledge. The timer starts once you open the web application. When the timer reaches 0 you have reached the end  of the quiz and you will get to view you score along with your peers.
 
 ## Installation
-Open index.html in browser or go to link.
+Open index.html in browser or go to the following link https://sindidr.github.io/Sindid-s-Awesome-Quiz/ .
 
 ## Usage
 Just a fun quiz you can do when you are bored
